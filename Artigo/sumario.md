@@ -2,8 +2,10 @@
 
 1. Daniel Estevam Pacheco de Souza
 
-* Nome do orientador de conteúdo
-* Nome do orientador acadêmico
+- Orientador de conteúdo (TCC I): Danilo Boechat - daniloboechat@pucminas.br
+- Orientador de conteúdo (TCC I): Joana Souza - joanasouza@pucminas.br
+- Orientador de conteúdo (TCC I): Leonardo Vilela - leonardocardoso@pucminas.br
+- Orientador acadêmico (TCC I): Cleiton Tavares - cleitontavares@pucminas.br
 
 ## Introdução
 
